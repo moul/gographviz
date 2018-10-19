@@ -23,7 +23,7 @@ go get github.com/awalterschulze/gographviz
 
 ### Tests ###
 
-[![Build Status](https://travis-ci.org/awalterschulze/gographviz.svg?branch=master)](https://travis-ci.org/awalterschulze/gographviz)
+[![Build Status](https://travis-ci.org/awalterschulze/gographviz.svg?branch=master)](https://travis-ci.org/awalterschulze/gographviz) [![GuardRails badge](https://badges.production.guardrails.io/moul/gographviz.svg)](https://www.guardrails.io)
 
 ### Users ###
 
